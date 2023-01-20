@@ -1,5 +1,9 @@
+
+import { Header } from '~~/.nuxt/components';
+
 <template>
-    <div class="bg-neutral-900 text-white min-h-screen">
-        <h1>PAGE</h1>
+    <div class="min-h-screen">
+        <Header />
+        <VideoHero />
     </div>
 </template>
