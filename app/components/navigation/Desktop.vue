@@ -14,6 +14,6 @@
         <span class="transition ease-in-out delay-150 hover:-translate-y-1  hover:scale-100 duration-200" v-for="link in links" :key="link.name">
             <NavigationLink :name="link.name" :anchor="link.anchor"></NavigationLink>
         </span>
-        <CtaButton></CtaButton>
+        <CtaButton text="Bel ons"></CtaButton>
     </nav>
 </template>

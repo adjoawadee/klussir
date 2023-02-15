@@ -1,6 +1,4 @@
 
-import { Header } from '~~/.nuxt/components';
-
 <template>
     <div class="min-h-screen 
         mx-auto
@@ -8,5 +6,8 @@ import { Header } from '~~/.nuxt/components';
         bg-white">
         <Header />
         <VideoHero />
+        <Diensten />
+        <Tarieven />
+        <OverOns />
     </div>
 </template>

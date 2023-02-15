@@ -6,7 +6,7 @@
     }
 </script>
 <template>
-    <header class="relative z-50">
+    <header class="sticky bg-white top-0 z-50">
         <div class="relative pt-6 pb-6">
             <nav class="relative mx-auto flex max-w-7xl items-center justify-between px-4 sm:px-6">
                 <div class="flex flex-1 items-center justify-between">
