@@ -6,4 +6,5 @@ node_modules
 .output
 .env
 ../.vscode
+../app/assets/videos/klussir-bkg.mp4
 dist
